@@ -9,11 +9,13 @@
         <meta content="Enrique Aroldo Garcia Vallecillo" name="author">
         <meta content="Technique test for Arguilea" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
+        
         <!-- CDN -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        <!-- Stykes -->
-        @yield('styles')
+        
+        <!-- Styles header -->   
+        
     </head>
     <body>
         <div class="content">
